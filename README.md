@@ -19,4 +19,4 @@ The unknown to me writers of the bootcamp training course. I just followed the d
 
 ## License
 
-Please refer to the lincense in the repo
+Please refer to the license in the repo
